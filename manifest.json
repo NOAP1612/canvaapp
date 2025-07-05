@@ -1,0 +1,7 @@
+{
+  "name": "מצגת אוטומטית בקאנבה",
+  "version": "1.0",
+  "description": "כפתור ליצירת מצגת אוטומטית",
+  "app_type": "app_ui",
+  "main": "index.html"
+}
