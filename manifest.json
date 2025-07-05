@@ -1,7 +1,7 @@
 {
-  "name": "מצגת אוטומטית בקאנבה",
+  "name": "Auto Presentations",
   "version": "1.0",
-  "description": "כפתור ליצירת מצגת אוטומטית",
+  "description": "A tool for creating automatic presentations in Canva",
   "app_type": "app_ui",
   "main": "index.html"
 }
